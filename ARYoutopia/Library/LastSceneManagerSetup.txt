@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/ARColab/Scenes/Test.unity
+  isLoaded: 1
+  isActive: 1
